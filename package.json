@@ -1,0 +1,20 @@
+{
+  "name": "time-ago-npm-package",
+  "version": "1.0.0",
+  "description": "Simple utility to display time difference like '5 minutes ago' or '2 days ago'.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nidhitalastha/time-ago-npm-package.git"
+  },
+  "author": "Nidhishree Talastha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nidhitalastha/time-ago-npm-package/issues"
+  },
+  "homepage": "https://github.com/nidhitalastha/time-ago-npm-package#readme"
+}
