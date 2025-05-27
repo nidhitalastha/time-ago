@@ -19,7 +19,7 @@ function timeAgo(inputFromDate, inputToDate) {
 
     // calculates the difference in time and converts milliseconds to seconds
     let diffInSeconds = (ToDate - fromDate)/1000;
-    console.log(diffInSeconds);
+    // console.log(diffInSeconds);
 
     
     // Loop through each time unit (year, month, day, etc.)
