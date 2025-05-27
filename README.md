@@ -12,7 +12,7 @@ A lightweight JavaScript utility that converts a given date or timestamp into a 
 ## Installation
 
 ```bash
-npm install time-ago
+npm install https://github.com/nidhitalastha/time-ago
 ```
 
 ## Usage
