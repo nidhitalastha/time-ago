@@ -51,7 +51,14 @@ function timeAgo(inputFromDate, inputToDate) {
         return `${result}`
     }
     // if no unit matches 
-    return "just now"
+    else{
+        if (fromDate == "Invalid Date"){
+            return ("Please provide the inputs in a valid Datetime format such as YYYY-MM-DD HH:MM:SS")
+        }
+        else{
+            return "just now"
+        }
+    }
 
 }
 
