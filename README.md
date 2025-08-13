@@ -38,4 +38,4 @@ It then breaks this time difference down into the largest possible components (y
 
 "just now"
 
-📌 Note: For simplicity, a month is treated as 30 days, which may slightly differ from actual calendar month durations.
+Note: For simplicity, a month is treated as 30 days, which may slightly differ from actual calendar month durations.
