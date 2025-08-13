@@ -13,9 +13,21 @@
   },
   "author": "Nidhishree Talastha",
   "license": "MIT",
-  "keywords": ["time", "utility", "timestamp", "date", "ago"],
+  "keywords": [
+    "time",
+    "utility",
+    "timestamp",
+    "date",
+    "ago"
+  ],
   "bugs": {
     "url": "https://github.com/nidhitalastha/time-ago-npm-package/issues"
   },
-  "homepage": "https://github.com/nidhitalastha/time-ago-npm-package#readme"
+  "homepage": "https://github.com/nidhitalastha/time-ago-npm-package#readme",
+  "devDependencies": {
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^11.0.4",
+    "@semantic-release/npm": "^12.0.2",
+    "semantic-release": "^24.2.7"
+  }
 }
