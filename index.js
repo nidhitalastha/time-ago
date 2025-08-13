@@ -62,4 +62,4 @@ function timeAgo(inputFromDate, inputToDate) {
 
 }
 
-export default timeAgo;
+module.exports = { timeAgo };
