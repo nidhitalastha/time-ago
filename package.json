@@ -1,6 +1,6 @@
 {
   "name": "@nidhi_talastha/time-ago",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "Simple utility to display time difference like '5 minutes ago' or '2 days ago'.",
   "main": "index.js",
   "type": "module",
